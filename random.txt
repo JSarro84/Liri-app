@@ -1,0 +1,5 @@
+'I Want it That Way'
+
+
+	
+module.exports = random.txt;
